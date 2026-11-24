@@ -1,0 +1,7 @@
+marks = 82
+agar marks >= 90:
+    likho("Grade A")
+warna agar marks >= 75:
+    likho("Grade B")
+warna:
+    likho("Keep practising")

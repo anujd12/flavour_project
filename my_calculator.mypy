@@ -1,0 +1,32 @@
+
+# Simple Calculator using Flavour
+
+a = 25
+b = 5
+
+likho("===== SIMPLE CALCULATOR =====")
+
+likho("First Number:")
+likho(a)
+
+likho("Second Number:")
+likho(b)
+
+sum = a + b
+difference = a - b
+product = a * b
+division = a / b
+
+likho("Addition:")
+likho(sum)
+
+likho("Subtraction:")
+likho(difference)
+
+likho("Multiplication:")
+likho(product)
+
+likho("Division:")
+likho(division)
+
+likho("===== CALCULATION COMPLETE =====")

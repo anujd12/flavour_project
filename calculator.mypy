@@ -1,0 +1,6 @@
+a = 18
+b = 6
+likho(a + b)
+likho(a - b)
+likho(a * b)
+likho(a / b)
